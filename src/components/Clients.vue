@@ -14,22 +14,22 @@
     </div>
     <section class="flex">
       <div>
-        <img src="src/assets/clients/at&t.png" alt="">
+        <img src="/src/assets/clients/at&t.png" alt="">
       </div>
       <div>
-        <img src="src/assets/clients/exxon.png" alt="">
+        <img src="/src/assets/clients/exxon.png" alt="">
       </div>
       <div>
-        <img src="src/assets/clients/oracle.png" alt="">
+        <img src="/src/assets/clients/oracle.png" alt="">
       </div>
       <div>
-        <img src="src/assets/clients/Health.png" alt="">
+        <img src="/src/assets/clients/Health.png" alt="">
       </div>
       <div>
-        <img src="src/assets/clients/homeservice.png" alt="">
+        <img src="/src/assets/clients/homeservice.png" alt="">
       </div>
       <div>
-        <img src="src/assets/clients/wordpress.png" alt="">
+        <img src="/src/assets/clients/wordpress.png" alt="">
       </div>
     </section>
   </section>
