@@ -54,7 +54,7 @@
                           lg:h-52
                           xl:h-64
                         "
-                 src="src/assets/OIP.jfif" alt=""
+                 src="/src/assets/OIP.jfif" alt=""
             />
           </a>
           <div class="p-5 md:p-4 xl:p-6">
@@ -91,7 +91,7 @@
                           lg:h-52
                           xl:h-64
                         "
-                 src="src/assets/web-design.jpg" alt=""
+                 src="/src/assets/web-design.jpg" alt=""
             />
           </a>
           <div class="p-5 md:p-4 xl:p-6">
@@ -128,7 +128,7 @@
                           lg:h-52
                           xl:h-64
                         "
-                 src="src/assets/digital-marketing-company.jpeg" alt=""
+                 src="/src/assets/digital-marketing-company.jpeg" alt=""
             />
           </a>
           <div class="p-5 md:p-4 xl:p-6">
@@ -174,7 +174,7 @@
       <div class="grid gap-5">
         <div class="md:flex md:justify-center md:align-middle bg-white border border-gray-200 rounded-2xl shadow-lg">
           <div class="w-full md:w-1/2">
-            <img class="w-full rounded-t-2xl md:h-full md:rounded-l-2xl md:rounded-tr-none" src="src/assets/innovative.jpg" alt="">
+            <img class="w-full rounded-t-2xl md:h-full md:rounded-l-2xl md:rounded-tr-none" src="/src/assets/innovative.jpg" alt="">
           </div>
           <div class="w-full p-5 md:w-1/2 text-gray-500  md:px-8 md:py-4 xl:p-10">
             <small>
@@ -199,7 +199,7 @@
 
         <div class="md:flex md:flex-row-reverse md:justify-center md:align-middle bg-white border border-gray-200 rounded-2xl shadow-lg">
           <div class="w-full md:w-1/2">
-            <img class="w-full rounded-t-2xl  md:h-full md:rounded-r-2xl md:rounded-tl-none" src="src/assets/strategic.jpg" alt="">
+            <img class="w-full rounded-t-2xl  md:h-full md:rounded-r-2xl md:rounded-tl-none" src="/src/assets/strategic.jpg" alt="">
           </div>
           <div class="w-full p-5 md:w-1/2 text-gray-700  md:px-8 md:py-4 xl:p-10">
             <small>
@@ -220,7 +220,7 @@
 
         <div class="md:flex md:justify-center md:align-middle bg-white border border-gray-200 rounded-2xl shadow-lg">
           <div class="w-full md:w-1/2">
-            <img class="w-full rounded-t-2xl md:h-full md:rounded-l-2xl md:rounded-tr-none" src="src/assets/tactics.jpg" alt="">
+            <img class="w-full rounded-t-2xl md:h-full md:rounded-l-2xl md:rounded-tr-none" src="/src/assets/tactics.jpg" alt="">
           </div>
           <div class="w-full p-5 md:w-1/2 text-gray-700  md:px-8 md:py-4 xl:p-10">
             <small>
