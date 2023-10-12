@@ -9,7 +9,7 @@
        <nav class="flex justify-between items-center relative">
          <div class="">
            <router-link to="/" class="flex justify-center items-center">
-             <img class="h-16 md:h-24" src="src/assets/BLOOM_HEIGHT_LOGO.png" alt="Bloom Height logo">
+             <img class="h-16 md:h-24" src="/src/assets/BLOOM_HEIGHT_LOGO.png" alt="Bloom Height logo">
              <h1>
                <span class="text-red-500 underline text-lg md:text-2xl font-bold">Bloom Height</span>
                <span class="block text-xs md:text-sm">Building a Digital Africa</span>
