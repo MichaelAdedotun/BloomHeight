@@ -140,8 +140,8 @@
             >
               Bringing certainty into your marketing
             </h5>
-            <p class="font-normal text-gray-500 text-xs my-5
-                        lg:mt-3 lg:mb-6
+            <p class="font-normal text-gray-500 text-xs my-3
+                        lg:mt-3 lg:mb-5
                         xl:my-5 xl:text-sm
                       "
             >
