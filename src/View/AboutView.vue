@@ -4,12 +4,11 @@
 
 <template>
   <section>
-    <div class="relative">
-      <img src="/src/assets/about-page-title02.jpg" class="h-64" alt="">
-      <h2 class="absolute grid w-full place-items-center bottom-28 text-2xl md:bottom-20 lg:bottom-24 md:text-4xl font-bold text-red-700">
+    <div class="bg-[url('/src/assets/about-page-title02.jpg')] p-32">
+      <h2 class="grid w-full place-items-center bottom-28 text-2xl md:bottom-20 lg:bottom-24 md:text-4xl font-bold text-red-700">
         BLOOMHEIGHT Consultancy
       </h2>
-      <p class="absolute grid w-full place-items-center bottom-20 md:bottom-12 lg:bottom-16 text-gray-900   ">
+      <p class="grid w-full place-items-center bottom-20 md:bottom-12 lg:bottom-16 text-gray-900   ">
         <span>
           You are here:
           <router-link class="ml-5 hover:text-red-500"  to="/">Home</router-link>
