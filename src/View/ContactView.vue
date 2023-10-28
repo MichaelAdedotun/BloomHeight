@@ -4,9 +4,7 @@
 
 <template>
   <section>
-    <div class="bg-[url('/src/assets/contact-us.jpg')] bg-center bg-cover bg-no-repeat p-44">
-<!--      <img src="/src/assets/contact-us.jpg" class="relative h-56 md:h-96 w-full" alt="contact background">-->
-    </div>
+    <div class="bg-[url('/src/assets/contact-us.jpg')] bg-center bg-cover bg-no-repeat p-44"></div>
 
     <div class="flex flex-col px-10 md:flex-row md:px-20 xl:px-28 py-16">
       <section class="w-full md:w-1/2">
