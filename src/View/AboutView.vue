@@ -9,7 +9,7 @@
         BLOOMHEIGHT Consultancy
       </h2>
       <p class="grid w-full place-items-center bottom-20 md:bottom-12 lg:bottom-16 text-white">
-        <span class="text-gray-900">
+        <span>
           You are here:
           <router-link class="ml-5 hover:text-red-500"  to="/">Home</router-link>
           /
