@@ -11,9 +11,9 @@
       <p class="grid w-full place-items-center bottom-20 md:bottom-12 lg:bottom-16 text-gray-900   ">
         <span>
           You are here:
-          <router-link class="ml-5 hover:text-red-500"  to="/">Home</router-link>
+          <router-link class="ml-5 text-white hover:text-red-500"  to="/">Home</router-link>
           /
-          <router-link class="hover:text-red-500" to="/about">About</router-link>
+          <router-link class="text-white hover:text-red-500" to="/about">About</router-link>
         </span>
       </p>
     </div>
