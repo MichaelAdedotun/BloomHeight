@@ -4,7 +4,7 @@
 
 <template>
   <section>
-    <div class="bg-[url('/src/assets/about-page-title02.jpg')] p-32">
+    <div class="bg-[url('/src/assets/about-page-title02.jpg')] py-32 px-16 md:px-32">
       <h2 class="grid w-full place-items-center bottom-28 text-2xl md:bottom-20 lg:bottom-24 md:text-4xl font-bold text-red-700">
         BLOOMHEIGHT Consultancy
       </h2>
