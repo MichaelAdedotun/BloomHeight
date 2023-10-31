@@ -100,18 +100,18 @@
        </nav>
      </header>
 
-     <div class="fixed bg-gray-950 text-gray-300 w-screen z-10" v-if="option">
+     <div class="fixed bg-gray-950 text-gray-300 w-screen z-10" v-show="option">
        <ul class="p-8
                   md:hidden
                 "
        >
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/" class="hover:text-red-500">
+           <router-link to="/" class="hover:text-red-500" @click="close()">
              Home
            </router-link>
          </li>
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/about" class="hover:text-red-500">
+           <router-link to="/about" class="hover:text-red-500" @click="close()">
              About
            </router-link>
          </li>
@@ -148,30 +148,25 @@
                <a
                    class="my-2 block border-b border-gray-100 py-1  text-gray-900 hover:text-red-500 md:mx-2"
                >
-                 <router-link to="/webDesign">Web Design</router-link>
+                 <router-link to="/webDesign" @click="close()">Web Design</router-link>
                </a>
 
                <a
                    class="my-2 block border-b border-gray-100 py-1  text-gray-900 hover:text-red-500 md:mx-2"
                >
-                 <router-link to="/businessBranding">Business Branding</router-link>
+                 <router-link to="/businessBranding" @click="close()">Business Branding</router-link>
                </a>
 
                <a
                    class="my-2 block border-b border-gray-100 py-1 text-gray-900 hover:text-red-500 md:mx-2"
                >
-                 <router-link to="/socialMedia">Social Media Marketing</router-link>
+                 <router-link to="/socialMedia" @click="close()">Social Media Marketing</router-link>
                </a>
              </div>
            </div>
          </li>
-<!--         <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">-->
-<!--           <router-link to="" class="hover:text-red-500">-->
-<!--             Services-->
-<!--           </router-link>-->
-<!--         </li>-->
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/contact" class="hover:text-red-500">
+           <router-link to="/contact" class="hover:text-red-500" @click="close()">
              Contact
            </router-link>
          </li>
@@ -193,7 +188,10 @@ export default {
 
   methods: {
       open(){
-        this.option = ! this.option
+        this.option = true
+      },
+      close(){
+        this.option = false
       }
   }
 }
