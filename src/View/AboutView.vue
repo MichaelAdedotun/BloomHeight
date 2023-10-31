@@ -8,12 +8,12 @@
       <h2 class="grid w-full place-items-center bottom-28 text-2xl md:bottom-20 lg:bottom-24 md:text-4xl font-bold text-red-700">
         BLOOMHEIGHT Consultancy
       </h2>
-      <p class="grid w-full place-items-center bottom-20 md:bottom-12 lg:bottom-16 text-gray-900   ">
-        <span>
+      <p class="grid w-full place-items-center bottom-20 md:bottom-12 lg:bottom-16 text-white">
+        <span class="text-gray-900">
           You are here:
-          <router-link class="ml-5 text-white hover:text-red-500"  to="/">Home</router-link>
+          <router-link class="ml-5 hover:text-red-500"  to="/">Home</router-link>
           /
-          <router-link class="text-white hover:text-red-500" to="/about">About</router-link>
+          <router-link class="hover:text-red-500" to="/about">About</router-link>
         </span>
       </p>
     </div>
