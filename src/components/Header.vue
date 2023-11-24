@@ -1,18 +1,18 @@
 <template>
 
-     <header class=" bg-white border-b-2 border-b-gray-500 sticky top-0 px-5 py-0
+    <header class=" bg-white border-b-2 border-b-gray-500 sticky top-0 px-5 py-0
                     md:px-8
                     lg:px-14
                     xl:px-20
                   "
-     >
+    >
        <nav class="flex justify-between items-center relative">
          <div class="">
            <router-link to="/" class="flex justify-center items-center">
-             <img class="h-16 md:h-24" src="/src/assets/BLOOM_HEIGHT_LOGO.png" alt="Bloom Height logo">
+             <img class="h-16" src="/src/assets/BLOOM_HEIGHT_LOGO.png" alt="Bloom Height logo">
              <h1>
-               <span class="text-red-500 underline text-lg md:text-2xl font-bold">Bloom Height</span>
-               <span class="block text-xs md:text-sm">Building a Digital Africa</span>
+               <span class="text-red-500 underline text-lg font-bold">Bloom Height</span>
+               <span class="block text-xs ">Building a Digital Africa</span>
              </h1>
            </router-link>
          </div>
