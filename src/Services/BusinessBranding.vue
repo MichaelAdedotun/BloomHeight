@@ -6,7 +6,7 @@
   <section class="bg-[url('/src/assets/branding.jpg')] bg-cover bg-no-repeat p-32">
     <div class="">
       <line class="flex border border-red-700 w-12 h-1 bg-red-600 mb-1"></line>
-      <h2 class="text-4xl font-bold mb-5">
+      <h2 class="text-4xl font-bold mb-5">33
         BUSINESS BRANDING
       </h2>
     </div>

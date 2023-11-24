@@ -32,10 +32,10 @@
              </router-link>
            </li>
            <li class="md:mr-1">
-             <div class="group relative cursor-pointer py-2 hover:text-red-500">
+             <div class="group relative  cursor-pointer py-2 hover:text-red-500">
                <div class="flex items-center mx-10">
                  <a
-                     class="menu-hover my-4 md:mx-3"
+                     class="my-4 md:mx-3"
                      onClick=""
                  >
                    Services
