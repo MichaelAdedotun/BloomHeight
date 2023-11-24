@@ -100,6 +100,7 @@
        </nav>
      </header>
 
+<!--Mobile nav section-->
      <div class="fixed bg-gray-950 text-gray-300 w-screen z-10" v-show="option">
        <ul class="p-8
                   md:hidden
@@ -172,7 +173,7 @@
          </li>
        </ul>
      </div>
-
+<!--Mobile nav section ends-->
 
 </template>
 
